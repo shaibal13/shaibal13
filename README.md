@@ -2,8 +2,8 @@
 - :package: I am working as a Research assistant in the Edge Intelligence System Lab in Oakland University
 - :package: I worked as a software engineer in Code Aristos for 3 years and 7 months.
 - :package: I did my bachelor in Computer Science and Engineering from North South University.
-- :package: Interested in solving hard problems with short lines because # of measurements are limited. So , I store it for my worst situation.
-- :package: Research interest:  Computer vision,Deep learning, Edge computing, Connected health
+- :package: Research interest:  Computer vision,Deep learning, Edge computing, Connected health.
+- :package: Solving hard problems with short lines because # of measurements are limited. So ,I Keep it maximum for my worst situation.
 - 🌱 I’m currently building my mark on this world. 
 <!-- - 👀 I’m looking to collaborate on different medical related edge computing projects -->
 - :email: Reach me at <email>shaibalsaha@oakland.edu </email> OR  <email>sahashaibal22@gmail.com </email>
