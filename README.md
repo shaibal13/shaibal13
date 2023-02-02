@@ -7,7 +7,7 @@
 - 🌱 I’m currently building my mark on this world. 
 <!-- - 👀 I’m looking to collaborate on different medical related edge computing projects -->
 - :email: Reach me at <email>shaibalsaha@oakland.edu </email> OR  <email>sahashaibal22@gmail.com </email>
-- :For more details see [LinkedIn](https://www.linkedin.com/in/shaibal-saha/). 
+- For more details see [LinkedIn](https://www.linkedin.com/in/shaibal-saha/). 
 
 
 <!---
