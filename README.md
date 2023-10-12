@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shaibal13.I currently doing my Ph.D in Oakland University.<br>
+- 👋 Hi, I’m Shaibal Saha.I currently doing my Ph.D in Oakland University.<br>
 - :package: I am working as a Research assistant in the Edge Intelligence System Lab in Oakland University
 - :package: I worked as a software engineer in Code Aristos for 3 years and 7 months.
 - :package: I did my bachelor in Computer Science and Engineering from North South University.
